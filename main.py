@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import CommandHandler, CallbackContext, Application
 
 # Replace 'YOUR_BOT_TOKEN' with the token you got from BotFather
-BOT_TOKEN = '7059059369:AAHOr8S0Qwf9l8IX3I3vL_V5ngrMrpf7bic'
+BOT_TOKEN = 'bot tooen'
 
 # Set up logging
 logging.basicConfig(
